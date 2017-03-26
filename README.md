@@ -11,3 +11,5 @@ pruning. I wrote this program on C language so you can play it on terminal.
 The program was written in linux.
 
 Have fun !!!
+
+PS: If you want to recommend any changes contact me.
